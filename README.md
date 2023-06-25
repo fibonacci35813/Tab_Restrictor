@@ -1,2 +1,2 @@
 # Tab_Restrictor
- This GitHub project allows users to specify permitted tabs by providing their links. Only these tabs are accessible, while others are restricted. If a restricted tab is accessed, users are redirected to the last visited permitted tab. No permitted tabs? Access any tab freely.
+Take full control of tab access on GitHub. Define permitted tabs using custom links. Intelligent redirection to recently visited permitted tabs when unauthorized tabs are accessed. Enjoy unrestricted browsing or fine-grained control with this versatile solution.
